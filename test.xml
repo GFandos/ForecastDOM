@@ -1,0 +1,20 @@
+<current>
+    <city id="3128760" name="Barcelona">
+        <coord lon="2.16" lat="41.39"></coord>
+        <country>ES</country>
+        <sun rise="2016-10-03T05:51:09" set="2016-10-03T17:28:18"></sun>
+    </city>
+    <temperature value="23.41" min="21.67" max="27.78" unit="metric"></temperature>
+    <humidity value="100" unit="%"></humidity>
+    <pressure value="1021" unit="hPa"></pressure>
+    <wind>
+        <speed value="2.11" name="Light breeze"></speed>
+        <gusts></gusts>
+        <direction value="140.001" code="SE" name="SouthEast"></direction>
+    </wind>
+    <clouds value="0" name="clear sky"></clouds>
+    <visibility></visibility>
+    <precipitation mode="no"></precipitation>
+    <weather number="800" value="clear sky" icon="01d"></weather>
+    <lastupdate value="2016-10-03T14:46:51"></lastupdate>
+</current>
